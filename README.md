@@ -390,7 +390,7 @@ Some important insights from this project include:
 
 # Conclusion
 
-This project provided valuable insights into the Indian data analytics job market and highlighted the skills most relevant for aspiring data professionals.
+This project provided valuable insights into the Indian data analytics job market and highlighted the skills most relevant for data professionals.
 
 The analysis demonstrates how technical skills, market demand, and salary trends are interconnected. It also emphasizes the importance of continuously learning modern tools and technologies to stay competitive in the evolving analytics industry.
 
